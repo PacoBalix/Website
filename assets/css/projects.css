@@ -6,7 +6,7 @@
     display: flex;
     flex-wrap: wrap;
     gap: var(--mp-1);
-    margin-top: var(--mp-3);
+    margin-top: 8em;
 }
 
 .container-projects .projects-list .project-card {
